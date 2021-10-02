@@ -1,0 +1,3 @@
+- 👋 Hi, I’m onodera
+- 👀 I’m interested in ruby on rails
+- 🌱 I’m currently learning react-native
