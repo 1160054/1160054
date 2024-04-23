@@ -1,3 +1,3 @@
 - 👋 Hi, I’m onodera.
-- 👀 I’m interested in ruby on rails.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in Ruby on Rails.
+- 🌱 I’m currently learning AWS.
