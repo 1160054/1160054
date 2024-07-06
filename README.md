@@ -1,3 +1,3 @@
 - 👋 Hi, I’m onodera.
-- 👀 I’m interested in Ruby on Rails.
-- 🌱 I’m currently learning AWS and Python.
+- 👀 I work with Ruby, Python, TypeScript, React, AWS, and Terraform.
+- 🌱 I'm currently learning Data Science.
