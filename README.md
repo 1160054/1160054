@@ -1,3 +1,3 @@
 - 👋 Hi, I’m onodera.
-- 👀 I work with Ruby, Python, TypeScript, React, AWS, and Terraform.
+- 👀 I work with Ruby, Python, React, AWS.
 - 🌱 I'm currently learning 3D modeling.
