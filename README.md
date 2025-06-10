@@ -1,4 +1,1 @@
-- 👋 Hi, I’m onodera.
-- 👀 I work with Ruby, React, AWS.
-- 🌱 I'm currently learning 3D modeling.
-- https://www.credly.com/users/1160054
+https://www.credly.com/users/1160054
