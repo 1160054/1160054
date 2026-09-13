@@ -1,6 +1,6 @@
 Freelance engineer based in Tokyo, 10+ years in web development.
 Rails on AWS, from VPC to deploy, written in Terraform or CloudFormation. Kubernetes when it fits.
-Most of my work lives in clients' private repositories; the certifications below are the public part.
+Client repos are private; the certifications below are the public part.
 
 Open to contract work: 1160054@gmail.com
 
