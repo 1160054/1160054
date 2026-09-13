@@ -1,6 +1,6 @@
 # onodera
 
-Software engineer in Tokyo. Cloud infrastructure (AWS / Google Cloud / Kubernetes) and Ruby.
+I'm a Japanese web developer.
 
 ## Certifications
 
