@@ -49,21 +49,10 @@ I'm a Japanese web developer.
     <td><a href="https://www.credly.com/badges/07f0b6d1-f426-41c4-a138-ba1b43e549ca">Google Cloud Certified Cloud Digital Leader</a></td>
   </tr>
 </table>
-<table>
-  <tr>
-    <th align="left">IPA</th>
-  </tr>
-  <tr>
-    <td>Applied Information Technology Engineer (応用情報技術者)</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th align="left">Ruby Association</th>
-  </tr>
-  <tr>
-    <td>Ruby Association Certified Ruby Programmer Silver</td>
-  </tr>
-</table>
+
+**Others**
+
+- Applied Information Technology Engineer (応用情報技術者, IPA)
+- Ruby Association Certified Ruby Programmer Silver
 
 Verified badges on [Credly](https://www.credly.com/users/1160054).
