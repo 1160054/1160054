@@ -53,19 +53,17 @@ I'm a Japanese web developer.
 </table>
 <table>
   <tr>
-    <th colspan="2" align="left">IPA</th>
+    <th align="left">IPA</th>
   </tr>
   <tr>
-    <td></td>
     <td>Applied Information Technology Engineer (応用情報技術者)</td>
   </tr>
 </table>
 <table>
   <tr>
-    <th colspan="2" align="left">Ruby Association</th>
+    <th align="left">Ruby Association</th>
   </tr>
   <tr>
-    <td></td>
     <td>Ruby Association Certified Ruby Programmer Silver</td>
   </tr>
 </table>
