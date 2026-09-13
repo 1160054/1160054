@@ -1,5 +1,5 @@
 I'm a freelance engineer in Tokyo with 10+ years in web development.
-I build Rails apps on AWS, from VPC to deploy, in Terraform or CloudFormation, and use Kubernetes when it fits.
+I can build Rails apps on AWS, from VPC to deploy, in Terraform or CloudFormation, and use Kubernetes when it fits.
 Client repos are private, so I list certifications below instead.
 
 Open to contract work: 1160054@gmail.com
