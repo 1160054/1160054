@@ -66,5 +66,3 @@ Open to contract work: 1160054@gmail.com
 
 - Applied Information Technology Engineer (応用情報技術者, IPA)
 - Ruby Association Certified Ruby Programmer Silver
-
-Verified badges on [Credly](https://www.credly.com/users/1160054).
