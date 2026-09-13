@@ -1,5 +1,5 @@
 I'm a freelance engineer in Tokyo with 10+ years in web development.
-For Rails apps on AWS, I have handled everything from VPC to deployment workflows and DevOps tooling.
+On Rails apps, I have handled the whole stack: frontend, backend, AWS infrastructure from the VPC up, deployment workflows, and DevOps tooling.
 Infrastructure is written in Terraform or CloudFormation, and I have used Kubernetes when it fits.
 Client repos are private, so I list certifications below instead.
 
