@@ -1,5 +1,3 @@
-# onodera
-
 I'm a Japanese web developer.
 
 ## Certifications
