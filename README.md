@@ -6,6 +6,9 @@ I'm a Japanese web developer.
 
 <table>
   <tr>
+    <th colspan="4" align="left">AWS</th>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.credly.com/badges/bd6e6ba7-6396-4e47-9237-bc31071e3c8d"><img src="badges/aws-advanced-networking-specialty.png" width="48" alt="AWS Certified Advanced Networking – Specialty badge"></a></td>
     <td><a href="https://www.credly.com/badges/bd6e6ba7-6396-4e47-9237-bc31071e3c8d">AWS Certified Advanced Networking – Specialty</a></td>
     <td align="center"><a href="https://www.credly.com/badges/63360baf-1930-4a6f-993b-7b921acadc9b"><img src="badges/aws-security-specialty.png" width="48" alt="AWS Certified Security – Specialty badge"></a></td>
@@ -29,15 +32,39 @@ I'm a Japanese web developer.
     <td align="center"><a href="https://www.credly.com/badges/d905da15-8da2-4181-93a1-d27d9ffdb10e"><img src="badges/aws-cloud-practitioner.png" width="48" alt="AWS Certified Cloud Practitioner badge"></a></td>
     <td><a href="https://www.credly.com/badges/d905da15-8da2-4181-93a1-d27d9ffdb10e">AWS Certified Cloud Practitioner</a></td>
   </tr>
+</table>
+<table>
+  <tr>
+    <th colspan="2" align="left">CNCF / The Linux Foundation</th>
+  </tr>
   <tr>
     <td align="center"><a href="https://www.credly.com/badges/d668dda4-2472-4617-bfc6-e47ffdb27038"><img src="badges/ckad.png" width="48" alt="CKAD: Certified Kubernetes Application Developer badge"></a></td>
     <td><a href="https://www.credly.com/badges/d668dda4-2472-4617-bfc6-e47ffdb27038">CKAD: Certified Kubernetes Application Developer</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th colspan="2" align="left">Google Cloud</th>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.credly.com/badges/07f0b6d1-f426-41c4-a138-ba1b43e549ca"><img src="badges/gcp-cloud-digital-leader.png" width="48" alt="Google Cloud Certified Cloud Digital Leader badge"></a></td>
     <td><a href="https://www.credly.com/badges/07f0b6d1-f426-41c4-a138-ba1b43e549ca">Google Cloud Certified Cloud Digital Leader</a></td>
   </tr>
+</table>
+<table>
+  <tr>
+    <th colspan="2" align="left">IPA</th>
+  </tr>
   <tr>
     <td></td>
-    <td>Applied Information Technology Engineer (応用情報技術者, IPA)</td>
+    <td>Applied Information Technology Engineer (応用情報技術者)</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th colspan="2" align="left">Ruby Association</th>
+  </tr>
+  <tr>
     <td></td>
     <td>Ruby Association Certified Ruby Programmer Silver</td>
   </tr>
