@@ -15,7 +15,3 @@ Software engineer in Tokyo. Cloud infrastructure (AWS / Google Cloud / Kubernete
 | Ruby Association | Certified Ruby Programmer Silver |
 
 Verified badges on [Credly](https://www.credly.com/users/1160054).
-
-## Projects
-
-- [claude-code-zsh-completion](https://github.com/1160054/claude-code-zsh-completion): Zsh completion for the Claude Code CLI.
