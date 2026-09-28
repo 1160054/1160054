@@ -1,4 +1,4 @@
-I'm Yudai Onodera, a web developer in Tokyo. I've been doing this for over ten years, and these days I work through my own small company, [FUWAX Inc.](https://fuwax.net).
+I'm Yudai Onodera, a web developer in Tokyo. I've been doing this for over ten years, and these days I work through my own small company, [FUWAX Inc.](https://fuwax.net)
 
 Most of my work is on Rails apps. I've handled the whole thing: frontend, backend, AWS from the VPC up, deploys, and the tooling around them. I write infrastructure in Terraform (sometimes CloudFormation) and use Kubernetes when it's actually a good fit.
 
