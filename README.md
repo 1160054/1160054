@@ -1,7 +1,8 @@
-I'm a freelance engineer in Tokyo with 10+ years in web development.
-On Rails apps, I have handled the whole stack: frontend, backend, AWS infrastructure from the VPC up, deployment workflows, and DevOps tooling.
-Infrastructure is written in Terraform or CloudFormation, and I have used Kubernetes when it fits.
-Client repos are private, so I list certifications below instead.
+I'm Yudai Onodera, a web developer in Tokyo. I've been doing this for over ten years, and these days I work through my own small company, FUWAX Inc. (https://fuwax.net).
+
+Most of my work is on Rails apps. I've handled the whole thing: frontend, backend, AWS from the VPC up, deploys, and the tooling around them. I write infrastructure in Terraform (sometimes CloudFormation) and use Kubernetes when it's actually a good fit.
+
+Client code stays private, so the certifications below will have to do.
 
 Open to contract work: 1160054@gmail.com
 
