@@ -1,0 +1,50 @@
+I'm Yudai Onodera, a web developer in Tokyo. Before I became a software engineer, I served in the Japan Self-Defense Forces. I've been building Rails apps since Rails 3, and now I run a small company, [fuwax Inc.](https://fuwax.net)
+
+I've handled the whole stack: frontend, backend, AWS including the network layer, deploys, and the tools for them. I've used AWS since the EC2-Classic days. I write infrastructure in Terraform (sometimes CloudFormation) and use Kubernetes when a project needs it. I still use Emacs.
+
+My client work is private, so I've listed my qualifications instead.
+
+Email: yudai.onodera@fuwax.net
+
+## Qualifications
+
+<table>
+  <tr>
+    <th colspan="2" align="left">AWS</th>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/bd6e6ba7-6396-4e47-9237-bc31071e3c8d"><img src="badges/aws-advanced-networking-specialty.png" width="48" alt="AWS Certified Advanced Networking – Specialty badge"></a></td>
+    <td><a href="https://www.credly.com/badges/bd6e6ba7-6396-4e47-9237-bc31071e3c8d">Advanced Networking – Specialty</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/63360baf-1930-4a6f-993b-7b921acadc9b"><img src="badges/aws-security-specialty.png" width="48" alt="AWS Certified Security – Specialty badge"></a></td>
+    <td><a href="https://www.credly.com/badges/63360baf-1930-4a6f-993b-7b921acadc9b">Security – Specialty</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/e0e9ca0f-6ac9-403e-902f-6b8bd6d70a8e"><img src="badges/aws-solutions-architect-associate.png" width="48" alt="AWS Certified Solutions Architect – Associate badge"></a></td>
+    <td><a href="https://www.credly.com/badges/e0e9ca0f-6ac9-403e-902f-6b8bd6d70a8e">Solutions Architect – Associate</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/9258fd8d-f6db-4b22-b4ce-90b1c63f58a9"><img src="badges/aws-sysops-administrator-associate.png" width="48" alt="AWS Certified SysOps Administrator – Associate badge"></a></td>
+    <td><a href="https://www.credly.com/badges/9258fd8d-f6db-4b22-b4ce-90b1c63f58a9">SysOps Administrator – Associate</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/74859646-1041-48ec-9367-b5074b668f5b"><img src="badges/aws-data-engineer-associate.png" width="48" alt="AWS Certified Data Engineer – Associate badge"></a></td>
+    <td><a href="https://www.credly.com/badges/74859646-1041-48ec-9367-b5074b668f5b">Data Engineer – Associate</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/bf0b8047-ac1d-4fb4-a73e-e1659ec76bb3"><img src="badges/aws-developer-associate.png" width="48" alt="AWS Certified Developer – Associate badge"></a></td>
+    <td><a href="https://www.credly.com/badges/bf0b8047-ac1d-4fb4-a73e-e1659ec76bb3">Developer – Associate</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th colspan="2" align="left">CNCF / The Linux Foundation</th>
+  </tr>
+  <tr>
+    <td align="center" width="48"><a href="https://www.credly.com/badges/d668dda4-2472-4617-bfc6-e47ffdb27038"><img src="badges/ckad.png" width="48" alt="CKAD: Certified Kubernetes Application Developer badge"></a></td>
+    <td><a href="https://www.credly.com/badges/d668dda4-2472-4617-bfc6-e47ffdb27038">CKAD: Certified Kubernetes Application Developer</a></td>
+  </tr>
+</table>
+
+Applied Information Technology Engineer (応用情報技術者, IPA)
